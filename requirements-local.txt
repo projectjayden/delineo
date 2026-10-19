@@ -1,0 +1,9 @@
+# Headless Delineo runner, tested with Python 3.12 on Windows.
+numpy==2.3.3
+pandas==2.3.3
+requests==2.32.5
+scipy==1.16.2
+streamlit==1.54.0
+zstandard==0.25.0
+ijson>=3.3,<4
+psutil>=7,<8

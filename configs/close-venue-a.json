@@ -1,0 +1,36 @@
+{
+  "czone_id": 0,
+  "length": 4320,
+  "random_seed": 20261019,
+  "randseed": false,
+  "initial_infected_count": 2,
+  "initial_infected_ids": [
+    "0",
+    "1"
+  ],
+  "disease_name": "COVID-19",
+  "variants": [
+    "Delta"
+  ],
+  "dmp_mode": "off",
+  "aggregate_transmission": true,
+  "area_aware_ventilation": true,
+  "ventilation_coeff": 9.0,
+  "external_foi": false,
+  "external_prevalence": 0.0,
+  "external_emit_factor": 1.0,
+  "seed_age_spread_days": 0.0,
+  "disabled_poi_ids": [
+    "1001"
+  ],
+  "interventions": [
+    {
+      "time": 0,
+      "mask": 0.0,
+      "vaccine": 0.0,
+      "capacity": 1.0,
+      "lockdown": 0.0,
+      "selfiso": 0.0
+    }
+  ]
+}

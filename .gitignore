@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+runs/
+data/local/
+delineo_exports/
+.ipynb_checkpoints/
+tmp/
