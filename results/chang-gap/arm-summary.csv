@@ -1,0 +1,6 @@
+arm,mean_secondary,mean_home,mean_poi,mean_small_hall,mean_large_hall,mean_dense_group_secondary,mean_sparse_group_secondary,extinct
+baseline,43.4,25.0,18.4,17.8,0.6,38.7,4.7,0
+cap20,7.7,6.1,1.6,1.4,0.2,4.5,3.2,0
+uniform,16.4,11.1,5.3,5.2,0.1,13.9,2.5,0
+close_crowded,6.9,6.3,0.6,0.0,0.6,3.0,3.9,0
+mask_day2,31.8,18.4,13.4,13.1,0.3,28.9,2.9,0
