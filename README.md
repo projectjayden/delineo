@@ -26,6 +26,7 @@ Use a new output directory each time. The example uses 40 invented people, two v
 | `requirements-local.txt` | Direct runner dependencies |
 | `docs/local-workflow.md` | Setup, execution, inputs, interpretation and repeated experiments |
 | `docs/experiment-plan.md` | Publication-oriented questions and study design |
+| `docs/chang-gap-study.md` | Chang et al. 2021 usage map and the two-hall experiment |
 | `delineo use_case-demo.ipynb` | Original analysis of hosted runs 187–196, preserved |
 | `xuanyi_jayden.pdf` | Original project presentation, preserved |
 | `requirements.txt` | Original notebook dependencies |
@@ -34,4 +35,4 @@ Generated inputs live in `data/local/` and outputs in `runs/`; both are ignored 
 
 The likely requested reference is Chang et al., [Mobility network models of COVID-19 explain inequities and inform reopening](https://doi.org/10.1038/s41586-020-2923-3), Nature 589, 82–87 (2021; online November 2020). This identification is provisional. The plan draws on its experimental approach, without claiming a reproduction.
 
-Historical runs are exploratory: registered intervention labels and server metadata differ, and initial infections differ. Fixed-input, repeated-seed comparisons are the next step toward a defensible paper.
+Historical runs are exploratory: registered intervention labels and server metadata differ, and initial infections differ. A fixed-input, repeated-seed comparison on an invented two-hall population is in [docs/chang-gap-study.md](docs/chang-gap-study.md). It is a methods study, not a calibrated city result.
